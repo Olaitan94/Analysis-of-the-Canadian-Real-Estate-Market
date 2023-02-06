@@ -52,7 +52,9 @@ To answer these questions, I obtained the following data:
 
 ## Installation
 Python version: 3.9
+
 Tools: Jupyter Notebook
+
 Libraries:
    - Pandas
    - Numpy
