@@ -1,0 +1,9 @@
+City,Province,Population
+Winnipeg,Manitoba,749607
+Calgary,Alberta,1306784
+Edmonton,Alberta,1010899
+Vancouver,British Columbia,662248
+Surrey,British Columbia,568322
+Burnaby,British Columbia,249125
+Regina,Saskatchewan,226404
+Saskatoon,Saskatchewan,266141
