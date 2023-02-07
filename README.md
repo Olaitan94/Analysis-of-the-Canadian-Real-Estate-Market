@@ -1,5 +1,5 @@
 # Analysis-of-the-Canadian-Real-Estate-Market
-Analysing the trends in the canadian real estatemarket from October 2022 to January 2023
+Analysing the trends in the canadian real estate market from October 2022 to January 2023
 
 ## Project Motivation 
 The canadian real estate market has been a hot topic of news since 2021 due to the hike in prices of properties. The mortage rates were increased to crash the prices. But has this been effective or are the prices still on the rise? 
